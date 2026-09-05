@@ -1,1 +1,2 @@
 # Coding_Study_Tools
+The goal for this repo is to make an interactive study tool for different classes. Considering the two classes Im in currently, I have to learn git hub and python for one of them and matlab for the other. The researcher experience I am taking for class credit also has me learning molecular dynamics, including alpha fold, chimera, chimera X, and autodock vina. I have been keeping my documentation for these tools in microsoft onenote but the goal is the have an interactive learning environment page in this repo. 
